@@ -15,7 +15,7 @@ Bu repo, **Türkiye Yapay Zeka Topluluğu** üyelerinin keşfettiği, test etti�
 ## 📂 Kategoriler
 
 | Kategori | Açıklama |
-| --- | --- | --- |
+| --- | --- |
 | 🧠 [LLM & Dil Modelleri](./categories/llm.md) | Büyük dil modelleri ve API'ler |
 | 🖼️ [Görüntü Üretimi](./categories/image-generation.md) | Text-to-image, image editing araçları |
 | 🎙️ [Ses & Konuşma](./categories/audio-speech.md) | TTS, STT, ses klonlama araçları |
